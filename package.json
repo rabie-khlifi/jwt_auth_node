@@ -1,0 +1,10 @@
+{
+  "name": "jwt_auth_node",
+  "version": "0.0.1",
+  "description": "auth using jwt token with node api",
+  "main": "index",
+  "repository": "khlifi rabie",
+  "author": "khlifi rabie",
+  "license": "MIT",
+  "private": false
+}
